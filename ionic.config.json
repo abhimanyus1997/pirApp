@@ -1,6 +1,8 @@
 {
   "name": "pirApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "58a1ac0e"
 }
