@@ -4,4 +4,4 @@
 
 Pipe Inspection and Cleaning control app development for Android Platform
 
-Currently no Work in progress
+Project moved to https://github.com/abhimanyus1997/pirbot (Based on cordova cordova 9.0.0)
